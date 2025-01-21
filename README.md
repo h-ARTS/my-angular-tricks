@@ -1,6 +1,6 @@
 # MyAngularTricks
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.3.
+Here I stash my code for reference, for I may use them in future projects.
 
 ## Development server
 
