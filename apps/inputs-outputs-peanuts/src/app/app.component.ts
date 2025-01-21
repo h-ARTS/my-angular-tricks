@@ -9,5 +9,9 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = 'my-angular-tricks';
+  notifcationsCount = 10;
+
+  updateNotificationCount(count: number) {
+    this.notifcationsCount = count;
+  }
 }
